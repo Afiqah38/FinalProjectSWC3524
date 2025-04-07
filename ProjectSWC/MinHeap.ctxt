@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=MinHeap
+comment1.params=
+comment1.target=MinHeap()
+comment2.params=value
+comment2.target=void\ insert(int)
+comment3.params=
+comment3.target=int\ extractMin()
+comment4.params=
+comment4.target=int\ peekMin()
+comment5.params=
+comment5.target=boolean\ isEmpty()
+comment6.params=
+comment6.target=int\ size()
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+numComments=8
